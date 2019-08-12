@@ -1,13 +1,14 @@
 .DS_Store
 node_modules
 /dist
-examples/
-packages/
-public/
-vue.config.js
-babel.config.js
-*.map
-*.html
+/lib
+# examples/
+# packages/
+# public/
+# vue.config.js
+# babel.config.js
+# *.map
+# *.html
 
 
 # local env files
